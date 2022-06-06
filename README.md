@@ -1,1 +1,1 @@
-# 100-python-problems
+# 100-python-practice-problems
